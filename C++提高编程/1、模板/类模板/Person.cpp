@@ -1,0 +1,13 @@
+#include "Person.h"
+
+// Person.h文件中成员函数的实现 
+template<class T1, class T2> 
+Person<T1, T2>::Person(T1 name, T2 age){
+	this->m_Name = name;
+	this->m_Age = age;
+}
+
+template<class T1, class T2> 		
+void Person<T1, T2>::showPerson(){
+	cout << "naem: " << this->m_Name << ", age: " << this->m_Age << endl; 
+}
