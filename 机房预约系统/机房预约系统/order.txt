@@ -1,0 +1,8 @@
+date:1 interval:1 stuId:1 stuName:李四 roomId:3 status:2
+date:2 interval:2 stuId:1 stuName:王五 roomId:3 status:2
+date:3 interval:2 stuId:3 stuName:李梅 roomId:1 status:1
+date:1 interval:1 stuId:3 stuName:张伟 roomId:1 status:1
+date:3 interval:1 stuId:3 stuName:六四 roomId:1 status:-1
+date:4 interval:1 stuId:3 stuName:曹操 roomId:1 status:1
+date:2 interval:2 stuId:3 stuName:孙宇 roomId:1 status:1
+date:5 interval:2 stuId:1 stuName:刘备 roomId:2 status:-1
